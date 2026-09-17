@@ -15,7 +15,7 @@ ROS 2 workspace for the autonomous mobile robot.
 ```bash
 git clone https://github.com/arushiy1300/Autonomous_Vehicle.git
 cd Autonomous_Vehicle
-source /opt/ros/<ros2_distro>/setup.bash
+source /opt/ros/jazzy/setup.bash
 colcon build
 source install/setup.bash
 ```
