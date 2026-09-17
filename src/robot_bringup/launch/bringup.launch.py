@@ -26,7 +26,12 @@ def generate_launch_description():
         ExecuteProcess(
             cmd=[
                 "python3",
-                os.path.expanduser("~/amr_ws/scripts/motor_serial.py")
+                os.path.join(
+                    os.path.expanduser("~"),
+                    "arushi_ws",
+                    "scripts",
+                    "motor_serial.py"
+                )
             ],
             output="screen"
         ),
