@@ -1,0 +1,21 @@
+# ROS 2 / colcon generated files
+build/
+install/
+log/
+
+# ROS / visualization generated files
+*.gv
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
