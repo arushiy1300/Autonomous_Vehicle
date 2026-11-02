@@ -1,10 +1,10 @@
 # Autonomous Mobile Robot — ROS 2 Humble
 
-ROS 2 Humble implementation of the Autonomous Mobile Robot project, developed and tested on a Raspberry Pi 5.
+ROS 2 Humble implementation of the Autonomous Mobile Robot project, developed and tested on a Raspberry Pi 4b.
 
 ## Environment
 
-- Hardware: Raspberry Pi 5
+- Hardware: Raspberry Pi 4b
 - Operating System: Ubuntu 22.04
 - ROS 2 Distribution: Humble
 - LiDAR: Slamtec SLLIDAR A2M12
